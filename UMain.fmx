@@ -1,0 +1,23 @@
+object frmMain: TfrmMain
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  Caption = 'Projeto Fusion - Lucas Bianchi Magalh'#227'es'
+  ClientHeight = 398
+  ClientWidth = 723
+  Position = ScreenCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object MenuBar1: TMenuBar
+    Size.Width = 723.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object MenuItem: TMenuItem
+      Text = 'Projeto Fusion'
+      OnClick = MenuItemClick
+    end
+  end
+end

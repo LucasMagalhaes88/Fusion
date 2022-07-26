@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/07/26 09:24:37.578,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 09:25:29.894,D:\Documentos\Embarcadero\Studio\Projects\Fusion\UMain.fmx=D:\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/07/26 09:25:29.894,D:\Documentos\Embarcadero\Studio\Projects\Fusion\UMain.pas=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 09:25:37.864,D:\Documentos\Embarcadero\Studio\Projects\Fusion\ProjetoFusion.dproj=D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/07/26 09:26:11.130,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit2.pas</Transaction>
+    <Transaction>2022/07/26 09:26:52.806,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 09:27:05.479,D:\Documentos\Embarcadero\Studio\Projects\Fusion\UDataModule.pas=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 09:27:05.479,D:\Documentos\Embarcadero\Studio\Projects\Fusion\UDataModule.dfm=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.dfm</Transaction>
+    <Transaction>2022/07/26 09:36:13.857,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 09:36:38.392,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit2.pas</Transaction>
+    <Transaction>2022/07/26 09:37:28.164,D:\Documentos\Embarcadero\Studio\Projects\Fusion\View\View.Projeto.Download.pas=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit2.pas</Transaction>
+    <Transaction>2022/07/26 09:37:28.164,D:\Documentos\Embarcadero\Studio\Projects\Fusion\View\View.Projeto.Download.fmx=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit2.fmx</Transaction>
+    <Transaction>2022/07/26 10:13:29.063,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 10:13:54.488,D:\Documentos\Embarcadero\Studio\Projects\Fusion\Controller\Controller.Projeto.Download.pas=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 10:14:31.901,D:\Documentos\Embarcadero\Studio\Projects\Fusion\Controller\Controller.Projeto.Download.pas=</Transaction>
+    <Transaction>2022/07/26 10:15:36.999,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 10:15:54.094,D:\Documentos\Embarcadero\Studio\Projects\Fusion\Controller\Controller.Projeto.Download.pas=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 10:15:54.094,D:\Documentos\Embarcadero\Studio\Projects\Fusion\Controller\Controller.Projeto.Download.dfm=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.dfm</Transaction>
+    <Transaction>2022/07/26 11:23:04.637,D:\Documentos\Embarcadero\Studio\Projects\Fusion\Controller\Controller.Projeto.Download.pas=</Transaction>
+    <Transaction>2022/07/26 11:58:22.519,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Controller\Controller.Projeto.Download.pas</Transaction>
+    <Transaction>2022/07/26 16:39:38.285,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 16:40:25.104,D:\Documentos\Embarcadero\Studio\Projects\Fusion\View\View.Projeto.Historico.fmx=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.fmx</Transaction>
+    <Transaction>2022/07/26 16:40:25.104,D:\Documentos\Embarcadero\Studio\Projects\Fusion\View\View.Projeto.Historico.pas=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 17:02:54.265,=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+    <Transaction>2022/07/26 17:03:15.523,D:\Documentos\Embarcadero\Studio\Projects\Fusion\Model\Model.Projeto.Historico.pas=D:\Documentos\Embarcadero\Studio\Projects\Fusion\Unit1.pas</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

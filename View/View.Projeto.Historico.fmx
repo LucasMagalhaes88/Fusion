@@ -1,0 +1,82 @@
+object frmViewHistorico: TfrmViewHistorico
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  Caption = 'Projeto Fusion - Lucas Bianchi Magalh'#227'es'
+  ClientHeight = 480
+  ClientWidth = 640
+  Position = ScreenCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object lytBotoes: TLayout
+    Align = Bottom
+    Position.Y = 430.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object btnSair: TButton
+      Position.X = 560.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Sair'
+      OnClick = btnSairClick
+    end
+  end
+  object lytPrincipal: TLayout
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 430.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object grdHistorico: TGrid
+      Align = Client
+      CanFocus = True
+      ClipChildren = True
+      Size.Width = 640.000000000000000000
+      Size.Height = 430.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      RowCount = 200
+      Options = [ColumnResize, ColumnMove, ColLines, RowLines, Tabs, Header, HeaderClick, AutoDisplacement]
+      Viewport.Width = 620.000000000000000000
+      Viewport.Height = 405.000000000000000000
+    end
+  end
+  object BindingsList1: TBindingsList
+    Methods = <>
+    OutputConverters = <>
+    Left = 576
+    Top = 16
+    object LinkGridToDataSource1: TLinkGridToDataSource
+      Category = 'Quick Bindings'
+      DataSource = ControllerDownload.pbsHistorico
+      GridControl = grdHistorico
+      Columns = <
+        item
+          MemberName = 'Codigo'
+          Header = 'C'#243'digo'
+        end
+        item
+          MemberName = 'Url'
+          Header = 'URL'
+          Width = 350
+        end
+        item
+          MemberName = 'DataInicio'
+          Header = 'Data In'#237'cio'
+          Width = 80
+        end
+        item
+          MemberName = 'DataFim'
+          Header = 'Data Fim'
+          Width = 80
+        end>
+    end
+  end
+end
